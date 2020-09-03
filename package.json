@@ -1,0 +1,13 @@
+{
+  "name": "primefactorisation",
+  "version": "1.0.0",
+  "description": "Calculate prime factorisation",
+  "main": "app.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Merlijn Busch",
+  "license": "ISC"
+}
